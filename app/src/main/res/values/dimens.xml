@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Padding for the layout in the list_item-->
+    <dimen name="item_padding">8dp</dimen>
+
+    <!-- Height of each list item -->
+    <dimen name="item_list_height">88dp</dimen>
+
+    <!--CardView Height-->
+    <dimen name="activity_card_view_height">250dp</dimen>
+
+    <!--TextView margin in the music_item.xml file-->
+    <dimen name="item_left_margin">16dp</dimen>
+
+    <!--Bottom margin  in the music_item.xml file-->
+    <dimen name="item_bottom_margin">40dp</dimen>
+</resources>

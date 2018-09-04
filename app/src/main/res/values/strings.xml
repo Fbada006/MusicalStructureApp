@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+
+    <!--Content description for the song list icon-->
+    <string name="activity_library">A music library</string>
+
+    <!--Content description for the album icon-->
+    <string name="activity_albums">An album</string>
+
+    <!--Content description for the playlist icon-->
+    <string name="activity_playlist">A playlist</string>
+
+    <!--Albums text-->
+    <string name="activity_text_albums">Albums</string>
+
+    <!--Playlist text-->
+    <string name="activity_text_playlist">Playlist</string>
+
+    <!--Songs text-->
+    <string name="activity_text_songs">Songs</string>
+
+    <!--Content description of musical note in music_item.xml-->
+    <string name="item_music_note">A musical note</string>
+
+    <!--Title of the albums screen-->
+    <string name="screen_albums">Albums</string>
+
+    <!--Title of the songs screen-->
+    <string name="screen_all_songs">All songs</string>
+
+    <!--Title of the playlist screen-->
+    <string name="screen_playlist">Playlist</string>
+
+    <!--Navigation button texts-->
+    <string name="album_activity_nav_button">All songs</string>
+    <string name="playlist_activity_nav_button">All songs</string>
+    <string name="songs_activity_nav_button">Albums</string>
+</resources>
